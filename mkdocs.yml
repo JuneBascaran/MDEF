@@ -4,8 +4,8 @@ site_description: Master in Design for Emergent Futures
 site_author: June
 copyright: Copyleft 2021 "June" - GNU Free Documentation License
 repo_name: 'JuneBascaran/MDEF'
-site_url: https://fablabbcn.github.io/mdef-template/
-repo_url: 'https://github.com/fablabbcn/mdef-template'
+site_url: https://junebascaran.github.io/MDEF/
+repo_url: 'https://github.com/JuneBascaran/MDEF'
 
 
 nav:
