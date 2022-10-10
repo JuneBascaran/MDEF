@@ -26,8 +26,8 @@ Is time to act and it is in our hands to make this world a better place.
 
 # PERSONAL DEVELOPMENT
 
-![](../images/W1-Bootcamp/Personal development_-1.png)
+![](../images/W1-Bootcamp/Personal development-1.png)
 
 # MAP OF THE COURSE
 
-![](../images/W1-Bootcamp/Course Map_-1.png)
+![](../images/W1-Bootcamp/Course Map-1.png)
