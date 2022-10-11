@@ -58,8 +58,8 @@ theme:
         name: Switch to light mode
   font:
     # See available fonts at https://fonts.google.com/
-    text: Raleway
-    code: Raleway 
+    text: Be Vietnam
+    code: Cutive Mono
   icon:
     logo: material/memory
   favicon: images/favicon.svg
