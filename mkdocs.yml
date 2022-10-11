@@ -43,12 +43,23 @@ theme:
   name: material
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
-    primary: yellow
-    accent: purple
+    primary: deep orange
+    accent: lime
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
   font:
     # See available fonts at https://fonts.google.com/
-    text: Be Vietnam
-    code: Cutive Mono
+    text: Raleway
+    code: Raleway 
   icon:
     logo: material/memory
   favicon: images/favicon.svg
