@@ -48,7 +48,7 @@ theme:
   font:
     # See available fonts at https://fonts.google.com/
     text: Raleway
-    code: Cutive Mono
+    code: Raleway
   icon:
     logo: material/memory
   favicon: images/favicon.svg
