@@ -47,8 +47,8 @@ theme:
     accent: deep orange
   font:
     # See available fonts at https://fonts.google.com/
-    text: Raleway
-    code: Raleway
+    text: Josefin Sans
+    code: Josefin Sans
   icon:
     logo: material/memory
   favicon: images/favicon.svg
