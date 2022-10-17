@@ -32,12 +32,12 @@ The aim of this letter is to unite modern processes such as digital fabrication 
 
 ## AREAS OF OPPORTUNITY
 
-> Reshape natural resources; explore raw materials.
-> Materials have an active role in design, creating form and expression, not just fulfilling technical requirements.
-> Empathize with other living species and be conscious of their life cycle.
-> Encourage craft skills (gardening, ceramics, glass process).
-> Solution that establish a connection with the natural environment.
-> Committed with a sustainable cycle of the resources and process involved.
-> Encourage rural jobs with digital fabrication.
+- Reshape natural resources; explore raw materials.
+- Materials have an active role in design, creating form and expression, not just fulfilling technical requirements.
+- Empathize with other living species and be conscious of their life cycle.
+- Encourage craft skills (gardening, ceramics, glass process).
+- Solution that establish a connection with the natural environment.
+- Committed with a sustainable cycle of the resources and process involved.
+- Encourage rural jobs with digital fabrication.
 
 
