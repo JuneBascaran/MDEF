@@ -1,6 +1,4 @@
 ## Welcome
 
 
-Welcome to my documentary webside for my journey in Master of Design for Emergent Future program. 
-
-I am very excited to share all my learnings that I am acquiring during this adventure in this course. 
+Welcome to my documentation website where I will be sharing content of my assignments and reflections about my journey through Master of Design for Emergent Future program. 
