@@ -50,7 +50,7 @@ theme:
     text: Josefin Sans
     code: Josefin Sans
   icon:
-    logo: material/memory
+    logo: assets/59137.png
   favicon: images/favicon.svg
   features:
     - instant
