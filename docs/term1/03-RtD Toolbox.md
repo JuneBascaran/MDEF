@@ -10,4 +10,4 @@ During my professional career as an industrial design engineer, the prototyping 
 
 The only time I have made prototypes has been to analyze and explore the ergonomics of the product. As a tool to identify future functional problems. Thus, of the 4 prototyping roles I have used **Role 1: Prototyping as an experimental component.**
 
-
+![](../images/RtD-toolbox/1.jpg)
