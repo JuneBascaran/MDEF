@@ -17,4 +17,7 @@ As for the question of what prototyping role I would like to use in relation to 
 In addition to these two Roles, I would also like to explore more in **Role 1**, which I firmly believe is a fundamental method for any product with a good aesthetic and functional design.
 
 ## Map of my resources
+
+The aim of this map is to understand what I have around that can be used in my design process.  Being aware of this will allow me to know what I am capable of doing.
+
 ![](../images/RtD-toolbox/Map of my RtD toolbox (1).jpg)
