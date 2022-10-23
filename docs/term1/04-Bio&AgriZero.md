@@ -20,4 +20,5 @@ This process is carried out by modifying the structure of the DNA contained in t
 To increase the size of the tomato, copies of the gene that determines the size of the fruit are increased. In this way, the production of the same is increased.
 
 And, **how can the original taste be returned to the tomato?**
+
 Several studies have identified a genetic code responsible for 13 chemical compounds associated with flavor, which abound in ancestral tomato varieties. Using a new technique called CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) you can cut (ctrl X) and paste (ctrl V) various DNA sequences so that the tomato grows with the genetic properties of ancestral tomatoes. 
