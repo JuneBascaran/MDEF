@@ -8,7 +8,7 @@ hide:
 
 **New: Why does the tomato no longer taste like tomato?**
 
-![](../images/Bio&AgriZero\NEW.png)
+![](../images/Bio&AgriZero\NEW.jpg)
 
 The tomato is one of the most popular and consumed vegetables in the world. It offers a wide assortment of varieties with different shapes and colors, but the taste has changed. The tomato no longer tastes like tomato.
 
