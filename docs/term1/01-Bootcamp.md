@@ -31,4 +31,5 @@ Is time to act and it is in our hands to make this world a better place.
 
 ## MAP OF THE COURSE
 
+<img src="http://....jpg" width="200" height="200" />
 ![](../images/W1-Bootcamp/Course Map-1.png)
