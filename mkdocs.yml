@@ -52,7 +52,7 @@ theme:
     text: Josefin Sans
     code: Josefin Sans
   icon:
-    logo: assets/59137.png
+    logo: docs/images/59137.png
   favicon: images/favicon.svg
 
   features:
