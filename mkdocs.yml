@@ -52,8 +52,9 @@ theme:
     text: Josefin Sans
     code: Josefin Sans
   icon:
-    logo: material/memory
+    logo: images/logo/59137.png
   favicon: images/favicon.svg
+
   features:
    # - navigation.tabs
      # - navigation.tabs.sticky
