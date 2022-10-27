@@ -65,7 +65,7 @@ theme:
     # - navigation.prune
     # - navigation.sections
     # - navigation.top
-    - navigation.tracking
+    # - navigation.tracking
 
 plugins:
   - search
