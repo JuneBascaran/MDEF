@@ -50,8 +50,8 @@ theme:
     accent: deep orange
   font:
     # See available fonts at https://fonts.google.com/
-    text: Josefin Sans
-    code: Josefin Sans
+    text: Kanit
+    code: Kanit
   icon: images/logo/59137.svg
   favicon: images/logo/59137.svg
 
