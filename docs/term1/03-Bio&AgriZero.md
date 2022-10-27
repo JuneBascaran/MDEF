@@ -6,7 +6,7 @@ hide:
 # W1-Bio&AgriZero
 ## Biological point of view 
 
-**New 1: Why does the tomato no longer taste like tomato?**
+### **New 1 : Why does the tomato no longer taste like tomato?**
 
 ![](../images/Bio&AgriZero/NEW.jpg)
 
@@ -25,4 +25,4 @@ And, **how can the original taste be returned to the tomato?**
 
 Several studies have identified a genetic code responsible for 13 chemical compounds associated with flavor, which abound in ancestral tomato varieties. Using a new technique called CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) you can cut (ctrl X) and paste (ctrl V) various DNA sequences so that the tomato grows with the genetic properties of ancestral tomatoes. 
 
-**New 2:**
+### **New 2 :**
