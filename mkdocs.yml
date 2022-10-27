@@ -52,7 +52,7 @@ theme:
     # See available fonts at https://fonts.google.com/
     text: Josefin Sans
     code: Josefin Sans
-  icon: images/logo/59137.svg
+  icon: images/logo/59137.png
   favicon: images/logo/59137.svg
 
   features:
