@@ -10,7 +10,7 @@ repo_url: 'https://github.com/JuneBascaran/MDEF'
 
 nav:
   - Home: index.md
-  - About: about/me.md
+  - About me: about/me.md
   - Master project:
       - Initial ideas: project/project.md
   - Design Studio:
