@@ -52,7 +52,8 @@ theme:
     # See available fonts at https://fonts.google.com/
     text: Josefin Sans
     code: Josefin Sans
-  favicon: images/favicon.svg
+  icon: images/logo/59137.svg
+  favicon: images/logo/59137.svg
 
   features:
     # - navigation.tabs
