@@ -28,3 +28,11 @@ Several studies have identified a genetic code responsible for 13 chemical compo
 ### **New 2 : Why scientist want to help plants capture more carbon dioxide.**
 
 ![](../images/Bio&AgriZero/CO2.png)
+
+The most effective and amazing carbon removal technology is photosynthesis. 
+
+Plants use sunlight as energy and they pull carbon dioxide out of the atmosphere, they turn it into a carbon fuel and that’s how they grow. 
+
+The 40% of that carbon fuel, they send down to their roots. They’re leaking it out in a very strategic way to soil microorganisms. Plants are feeding soil microorganisms carbon, and the soil microorganisms are bringing plants mineral nutrients. In the process of all that, those soil microorganisms make a carbon glue out of that carbon fuel and they make habitat in the soil. They make little pockets in the soil  to control the flow of air and water. That’s one of the ways that carbon gets fixed in the soil. 
+
+In other words, soil has the unique ability to sequester carbon dioxide out of the atmosphere. Soil, plants and climate are connected. If we don’t have a living plant, we’re going to have more evaporation. What we want is transpiration, when the moisture leaves through the plant increases humidity and, consequently, we have more rain. 
