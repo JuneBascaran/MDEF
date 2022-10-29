@@ -40,4 +40,15 @@ In other words, soil has the unique ability to sequester carbon dioxide out of t
 We should take advantage of the regenerative capacity of the soil. 
 
 ## Pictures of week's experience
- 
+
+![](../images/Bio&AgriZero/IMG-0720.jpg)
+
+![](../images/Bio&AgriZero/IMG-0736.jpg)
+
+![](../images/Bio&AgriZero/IMG-0750.jpg)
+
+![](../images/Bio&AgriZero/IMG-0752.jpg)
+
+![](../images/Bio&AgriZero/IMG-0865.jpg)
+
+![](../images/Bio&AgriZero/IMG-0885.jpg)
