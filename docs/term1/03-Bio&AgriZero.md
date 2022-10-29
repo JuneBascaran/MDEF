@@ -26,3 +26,5 @@ And, **how can the original taste be returned to the tomato?**
 Several studies have identified a genetic code responsible for 13 chemical compounds associated with flavor, which abound in ancestral tomato varieties. Using a new technique called CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) you can cut (ctrl X) and paste (ctrl V) various DNA sequences so that the tomato grows with the genetic properties of ancestral tomatoes. 
 
 ### **New 2 : Why scientist want to help plants capture more carbon dioxide.**
+
+![](../images/Bio&AgriZero/CO2.png)
