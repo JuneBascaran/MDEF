@@ -1,6 +1,6 @@
 # About me
 
-![](../images/About/IMG-1386.jpg)ç
+![](../images/About/IMG-1386.jpg)
 <img src="https://junebascaran.github.io/MDEF/images/About/IMG-1386.jpg" width=50% height=50%>
 
 
