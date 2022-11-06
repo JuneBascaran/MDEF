@@ -28,6 +28,7 @@ Several studies have identified a genetic code responsible for 13 chemical compo
 ### **New 2 : Why scientist want to help plants capture more carbon dioxide.**
 
 <img src="https://junebascaran.github.io/MDEF/images/Bio%26AgriZero/CO2.png" width=50% height=50%> 
+
 The most effective and amazing carbon removal technology is photosynthesis. 
 
 Plants use sunlight as energy and they pull carbon dioxide out of the atmosphere, they turn it into a carbon fuel and that’s how they grow. 
@@ -40,14 +41,15 @@ We should take advantage of the regenerative capacity of the soil.
 
 ## Pictures of week's experience
 
-![](../images/Bio&AgriZero/IMG-0720.jpg)
 
-![](../images/Bio&AgriZero/IMG-0736.jpg)
+<img src="https://junebascaran.github.io/MDEF/images/Bio%26AgriZero/IMG-0720.jpg" width=50% height=50%> 
 
-![](../images/Bio&AgriZero/IMG-0750.jpg)
+<img src="https://junebascaran.github.io/MDEF/images/Bio%26AgriZero/IMG-0736.jpg" width=50% height=50%> 
 
-![](../images/Bio&AgriZero/IMG-0752.jpg)
+<img src="https://junebascaran.github.io/MDEF/images/Bio%26AgriZero/IMG-0750.jpg" width=50% height=50%> 
 
-![](../images/Bio&AgriZero/IMG-0865.jpg)
+<img src="https://junebascaran.github.io/MDEF/images/Bio%26AgriZero/IMG-0752.jpg" width=50% height=50%> 
 
-![](../images/Bio&AgriZero/IMG-0885.jpg)
+<img src="https://junebascaran.github.io/MDEF/images/Bio%26AgriZero/IMG-0865.jpg" width=50% height=50%> 
+
+<img src="https://junebascaran.github.io/MDEF/images/Bio%26AgriZero/IMG-0885.jpg" width=50% height=50%> 
