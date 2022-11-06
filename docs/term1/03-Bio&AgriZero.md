@@ -8,7 +8,6 @@ hide:
 
 ### **New 1 : Why does the tomato no longer taste like tomato?**
 
-![](../images/Bio&AgriZero/NEW.jpg)
 <img src="https://junebascaran.github.io/MDEF/images/Bio%26AgriZero/NEW.jpg" width=50% height=50%> 
 
 
@@ -28,7 +27,6 @@ Several studies have identified a genetic code responsible for 13 chemical compo
 
 ### **New 2 : Why scientist want to help plants capture more carbon dioxide.**
 
-![](../images/Bio&AgriZero/CO2.png)
 <img src="https://junebascaran.github.io/MDEF/images/Bio%26AgriZero/CO2.png" width=50% height=50%> 
 The most effective and amazing carbon removal technology is photosynthesis. 
 
