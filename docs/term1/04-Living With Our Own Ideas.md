@@ -12,7 +12,7 @@ hide:
 In this test I have challenged my daily habits to explore what it generates in my life if it will change them for more sustainable ones. For example, from using public transport to not using it, from not being aware of what I consume and bought to be or from using water unlimited to limit it. 
 
 
-## Reflection
+## Reflections
 
 When you involve your self in the process of exploration and research you realize many more details than when you perform externally. One of the conclusions I have drawn through this challege is that by involving yourself in the exploration process you are able to more easily detect emotions and feelings, which you previously took for granted. It's a way to empathize more accurately.
 
