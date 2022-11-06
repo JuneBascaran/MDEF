@@ -42,7 +42,7 @@ We should take advantage of the regenerative capacity of the soil.
 ## Pictures of week's experience
 
 
-<img src="https://junebascaran.github.io/MDEF/images/Bio%26AgriZero/IMG-0720.jpg" width=50% height=50%> 
+<img src="https://junebascaran.github.io/MDEF/images/Bio%26AgriZero/IMG-0720.jpg" width=70% height=70%> 
 
 <img src="https://junebascaran.github.io/MDEF/images/Bio%26AgriZero/IMG-0736.jpg" width=50% height=50%> 
 
