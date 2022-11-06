@@ -1,7 +1,7 @@
 # About me
 
 <img src="https://junebascaran.github.io/MDEF/images/About/IMG-1386.jpg" width=50% height=50%> 
-
+![](../images/About/IMG-1386.jpg)
 
 Industrial design engineer with the ambition to design with and for nature.
 
