@@ -44,12 +44,12 @@ We should take advantage of the regenerative capacity of the soil.
 
 <img src="https://junebascaran.github.io/MDEF/images/Bio%26AgriZero/IMG-0720.jpg" width=30% height=30%> 
 
-<img src="https://junebascaran.github.io/MDEF/images/Bio%26AgriZero/IMG-0736.jpg" width=50% height=50%> 
+<img src="https://junebascaran.github.io/MDEF/images/Bio%26AgriZero/IMG-0736.jpg" width=30% height=30%> 
 
-<img src="https://junebascaran.github.io/MDEF/images/Bio%26AgriZero/IMG-0750.jpg" width=50% height=50%> 
+<img src="https://junebascaran.github.io/MDEF/images/Bio%26AgriZero/IMG-0750.jpg" width=30% height=30%> 
 
-<img src="https://junebascaran.github.io/MDEF/images/Bio%26AgriZero/IMG-0752.jpg" width=50% height=50%> 
+<img src="https://junebascaran.github.io/MDEF/images/Bio%26AgriZero/IMG-0752.jpg" width=30% height=30%> 
 
-<img src="https://junebascaran.github.io/MDEF/images/Bio%26AgriZero/IMG-0865.jpg" width=50% height=50%> 
+<img src="https://junebascaran.github.io/MDEF/images/Bio%26AgriZero/IMG-0865.jpg" width=30% height=30%> 
 
-<img src="https://junebascaran.github.io/MDEF/images/Bio%26AgriZero/IMG-0885.jpg" width=50% height=50%> 
+<img src="https://junebascaran.github.io/MDEF/images/Bio%26AgriZero/IMG-0885.jpg" width=30% height=30%> 
