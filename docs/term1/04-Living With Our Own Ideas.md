@@ -6,7 +6,7 @@ hide:
 # Living With Our Own Ideas
 
 ## Video 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/767005989?h=30d3d9282a" width="640" height="1137" frameborder="0" allowfullscreen></iframe>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/767005989?h=30d3d9282a" width="320" height="568,5" frameborder="0" allowfullscreen></iframe>
 
 **First question:** How does it affects changing my everyday habits for more sustainable once?
 
