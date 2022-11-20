@@ -5,13 +5,6 @@ hide:
 
 # Living With Our Own Ideas
 
-## Video 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/767005989?h=30d3d9282a" width="320" height="568,5" frameborder="0" allowfullscreen></iframe>
-
-**First question:** How does it affects changing my everyday habits for more sustainable once?
-
-In this test I have challenged my daily habits to explore what it generates in my life if it will change them for more sustainable ones. For example, from using public transport to not using it, from not being aware of what I consume and bought to be or from using water unlimited to limit it. 
-
 
 ## Reflections
 
