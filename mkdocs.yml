@@ -59,7 +59,7 @@ theme:
   
    #icon: images/logo/59137.svg
 
-   favicon: images/logo/59137.svg
+   #favicon: images/logo/59137.svg
 
   features:
     # - navigation.tabs
