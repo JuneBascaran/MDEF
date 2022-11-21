@@ -34,7 +34,7 @@ From Tuesday to Friday my group and I have been working on a bubble machine.
 
 This machine arises from the idea that technology is not always synonymous with comfort and ease, which is often the opposite. For this we have designed a system that simulates the same actions as when the bubbles are blown manually (the lid is opened and the stick is removed from the container). The result: 10 hours a day of work in a loop of failures and hits to finally create a bubble machine.
 
-![](../images/Tech Beyond the Mith/AF35D65D-6EB2-4DD1-8E4C-11FBB46BEC20-1390-0000009EA9D59073.jpg)
+
 <img src="https://junebascaran.github.io/MDEF/images/Tech%20Beyond%20the%20Mith/AF35D65D-6EB2-4DD1-8E4C-11FBB46BEC20-1390-0000009EA9D59073.jpg" width=40% height=40%> 
 
 
