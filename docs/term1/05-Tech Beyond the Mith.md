@@ -13,6 +13,7 @@ These two weeks we have been exploring technology and everything that lies behin
 <img src="https://junebascaran.github.io/MDEF/images/Tech%20Beyond%20the%20Mith/drip%20coffe%20maker%202.jpg" width=40% height=40%> 
 
 **What surprised me?**
+
 - The technological design of this coffee machine seems at first complex. But it actually uses very simple operating systems.
 - The use of Low-Tech sistems: water level metric scale, coffee dripper (from the filter to the kettle).
 - When we first saw the machine (big plastic case) we thought that the electrical components would occupy more space, it turns out it doesn't require so much plastic. It was surprising to find so much plastic material to store so few electrical components: thermostat, heater, board and button + LED.
