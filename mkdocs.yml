@@ -11,8 +11,11 @@ repo_url: 'https://github.com/JuneBascaran/MDEF'
 nav:
   - Home: index.md
   - About me: about/me.md
-  - Master project:
-      - Interventions TERM 1: project/interventions.md
+  - Interventions:
+      - Term 1: 
+          - Food Waste: project/Food waste.md
+          - Permaculture: project/Permaculture.md
+      
   - Design Studio:
       - RtD Toolbox: designstudio/01-RtD-Toolbox.md
   - Reflections :
