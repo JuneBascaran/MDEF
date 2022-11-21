@@ -12,8 +12,8 @@ nav:
   - Home: index.md
   - About me: about/me.md
   - Master project:
-      - Initial ideas: project/project.md
-  - Desi  gn Studio:
+      - Interventions : project/interventions.md
+  - Design Studio:
       - RtD Toolbox: designstudio/01-RtD-Toolbox.md
   - Reflections :
       - Term 1:
