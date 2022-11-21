@@ -18,7 +18,7 @@ These two weeks we have been exploring technology and everything that lies behin
 - The use of Low-Tech sistems: water level metric scale, coffee dripper (from the filter to the kettle).
 - When we first saw the machine (big plastic case) we thought that the electrical components would occupy more space, it turns out it doesn't require so much plastic. It was surprising to find so much plastic material to store so few electrical components: thermostat, heater, board and button + LED.
 
-<img src="https://junebascaran.github.io/MDEF/images/Tech%20Beyond%20the%20Mith/ZOaOvW4.jpg" width=40% height=40%> 
+ <img src="https://junebascaran.github.io/MDEF/images/Tech%20Beyond%20the%20Mith/ZOaOvW4.jpg" width=40% height=40%> 
 
 
 - Smart materials is using material properties to our advantage as designers.
