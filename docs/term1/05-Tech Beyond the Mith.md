@@ -3,6 +3,6 @@ hide:
     - toc
 ---
 
-# Living With Our Own Ideas
+# Tech Beyond the Mith 
 
 ## 
