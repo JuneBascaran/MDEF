@@ -49,8 +49,8 @@ extra:
 
 theme:
   name: material
-  icon: /docs/images/logo/59137.png
-  favicon: docs/images/logo/59137.svg
+  icon: images/logo/59137.png
+  favicon: images/logo/59137.svg
 
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
