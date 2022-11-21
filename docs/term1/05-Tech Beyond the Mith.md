@@ -5,7 +5,7 @@ hide:
 
 # Tech Beyond the Mith 
 
-WEEK 7/11 - 20/11
+WEEK || 7/11 - 20/11
 
 These two weeks we have been exploring technology and everything that lies behind it. Thanks to this program has helped me understand that the current system in which we live is only motivated by economic reasons, sell and consume more. In this way, they create products that after a period of time, calculated in advance by the manufacturer or company, stop working and are irreparable. The electrical components are hidden inside a black box, apparently difficult to obtain and understand. Once this barrier is crossed you understand that the technology used to operate the machine is not as complicated as it seemed and even those electrical components could be used for other purposes or replaced by others without the need to buy a new product.
 
@@ -23,3 +23,12 @@ These two weeks we have been exploring technology and everything that lies behin
  - Use of metal components, without any functional purpose, to give the product a more elegant and quality appearance.
 
 ## ALMOST USELESS MACHINE 
+
+The second week of the Tech Beyond the Mith program we had a workshop called "Almost Useless Machine". Through this program I have understood that through a basic knowledge of electronics you can create machines or very interesting objects.
+
+### **BUBBLE MACHINE**
+(video) 
+
+From Tuesday to Friday my group and I have been working on a bubble machine.
+
+This machine arises from the idea that technology is not always synonymous with comfort and ease, which is often the opposite. For this we have designed a system that simulates the same actions as when the bubbles are blown manually (the lid is opened and the stick is removed from the container). The result: 10 hours a day of work in a loop of failures and hits to finally create a bubble machine.
