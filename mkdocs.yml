@@ -57,7 +57,7 @@ theme:
     text: Marcellus
     code: Marcellus
   
-   icon: images/logo/59137.svg
+   #icon: images/logo/59137.svg
 
    favicon: images/logo/59137.svg
 
