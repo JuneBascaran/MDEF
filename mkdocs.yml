@@ -49,7 +49,7 @@ extra:
 
 theme:
   name: material
-  icon: images/logo/59137.png
+  icon: images/logo/59137.svg
   favicon: images/logo/59137.svg
 
   palette:
