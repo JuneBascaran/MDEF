@@ -57,9 +57,9 @@ theme:
     text: Marcellus
     code: Marcellus
   
-   #icon: images/logo/59137.svg
+   icon: docs/images/logo/59137.svg
 
-   #favicon: images/logo/59137.svg
+   #favicon: docs/images/logo/59137.svg
 
   features:
     # - navigation.tabs
