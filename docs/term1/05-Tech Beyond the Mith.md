@@ -24,7 +24,7 @@ These two weeks we have been exploring technology and everything that lies behin
 
  The second week of the Tech Beyond the Mith program we had a workshop called "Almost Useless Machine". Through this program I have understood that through a basic knowledge of electronics you can create machines or very interesting objects.
 
-  ### **BUBBLE MACHINE**
+  ### BUBBLE MACHINE
   (video) 
 
   From Tuesday to Friday my group and I have been working on a bubble machine.
