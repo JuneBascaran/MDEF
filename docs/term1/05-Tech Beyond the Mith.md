@@ -25,7 +25,7 @@ These two weeks we have been exploring technology and everything that lies behin
  The second week of the Tech Beyond the Mith program we had a workshop called "Almost Useless Machine". Through this program I have understood that through a basic knowledge of electronics you can create machines or very interesting objects.
 
 ### BUBBLE MACHINE
-<iframe src="https://player.vimeo.com/video/775458117?h=5cbad45935&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="3840" height="2160" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="bubblemaker.mp4"></iframe>
+ <iframe src="https://player.vimeo.com/video/775458117?h=5cbad45935&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="3840" height="2160" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="bubblemaker.mp4"></iframe>
   From Tuesday to Friday my group and I have been working on a bubble machine.
 
   This machine arises from the idea that technology is not always synonymous with comfort and ease, which is often the opposite. For this we have designed a system that simulates the same actions as when the bubbles are blown manually (the lid is opened and the stick is removed from the container). The result: 10 hours a day of work in a loop of failures and hits to finally create a bubble machine.
