@@ -30,4 +30,6 @@ These two weeks we have been exploring technology and everything that lies behin
 
   This machine arises from the idea that technology is not always synonymous with comfort and ease, which is often the opposite. For this we have designed a system that simulates the same actions as when the bubbles are blown manually (the lid is opened and the stick is removed from the container). The result: 10 hours a day of work in a loop of failures and hits to finally create a bubble machine.
 
+[CoffePot](https://hackmd.io/xQ9hjQftSiaee3XNQ7NcrQ?both)
+
 Sources: https://hackmd.io/xQ9hjQftSiaee3XNQ7NcrQ?both
