@@ -16,7 +16,7 @@ hide:
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFSqcbbI_g&#x2F;view?utm_content=DAFSqcbbI_g&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">FOOD WASTE</a> de June Bascaran Bilbao
 
-## Community engagement|Food not Boms
+
 
 
 
