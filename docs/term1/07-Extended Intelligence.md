@@ -29,4 +29,4 @@ As an example, we used an AI to recognize different objects and for detect movem
 
 These two sessions have allowed me to learn about fields I've never explored before. It is interesting to know more about this type of technologies that today are so present in our day to day. Learning about the basics of this complex field opens up different opportunities for me to work on my next projects. Perhaps using AI, art and design.
 
-If I had to complain about something, I wish I had worked more with Google Colab and explored with more neural networks. 
+ I would have liked to explore more with Google Colab and worked with more neural networks. 
