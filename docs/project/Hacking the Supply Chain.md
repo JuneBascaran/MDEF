@@ -6,7 +6,7 @@ hide:
 # Hacking the Supply Chain ! WASTE
 ## Waste Dinner 
 
-https://www.youtube.com/watch?v=4InH5ug4Pvs
+https://vimeo.com/manage/videos/782289791/privacy
 
 
 ## Community Engagemnet | Food not Boms 
