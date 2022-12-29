@@ -11,7 +11,7 @@ repo_url: 'https://github.com/JuneBascaran/MDEF'
 nav:
   - Home: index.md
   - About me: about/me.md
-  - Interventions:
+  - master_proyect:
       - Term 1: 
           - Hacking Food Supply Chain: project/Hacking Food Supply Chain.md
 
