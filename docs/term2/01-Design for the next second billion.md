@@ -16,7 +16,7 @@ From the lesson one I extracted this three reflections:
 - **From individualism to collaborative way of living.** It is about seeing the system not vertically but horizontally, more egalitarian and supportive. I firmly believe that we are an interdependent society and that we need each other to live. A more collaborative world is for me a world that respects what is different, that favors more democratic decision-making. 
 - **Designing for more solidary futures.** 
 
-It was interesting to think about different realities, imagining hopeful futures that will manage to face the current problems, writing a letter from myself in 2050 and others. I really liked to start like this the trimestre, with a critical hope. 
+It was interesting to think about different realities, imagining hopeful futures that will manage to face the current problems, writing a letter from myself in 2050 and others. I really liked to start like this the trimestre, with a critical hope thinking. 
 
 Some photos from thrid lesson:
 
