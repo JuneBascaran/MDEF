@@ -19,3 +19,6 @@ From the lesson one I extracted this three reflections:
 It was interesting to think about different realities, imagining hopeful futures that will manage to face the current problems, writing a letter from myself in 2050 and others. I really liked to start like this the trimestre, with a critical hope. 
 
 Some photos from thrid lesson:
+
+![](../images/DFTNBS/IMG-0397.JPG)
+
