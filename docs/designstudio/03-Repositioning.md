@@ -15,4 +15,4 @@ After this first intervention I have understood that part of the current problem
 
 I really believe that materials have an important role to convey emotions and values in the final artifact. In term II, I would like to explore the emotions that are elicited in the encounter between humans, materials and the context in which they operate. Considering the increase in the use of new materials and the consequent deple-tion of natural resources. Creating a sensorial and interactive experience with materials. The main focus is to investigate the expressive-sensorial qualities through an exploratory and experimental approach.  
 
-I am also interested in regenerative materials and to learn more about permaculture and Its principles. 
+I am also interested in regenerative materials and to learn more about permaculture and its principles. 
