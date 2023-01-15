@@ -4,6 +4,8 @@ hide:
 ---
 # **Design for the next billion seconds** 
 
+(Jan 11 - Jan 13)
+
 This first session of term II has allowed me to have a critical thinking about the present we live and the futures we will live. Hypothesizing about what is going to happen in the next one billion seconds. 
 
 This course carried by Andres Calamaru has been a great chance to ask ourselves questions on how we would like to live 30 years from now. These reflections have been good to project my future and have helped me to have a more critical view of my time, how I spend it and how I would like to spend it.
