@@ -2,23 +2,18 @@
 hide:
     - toc
 ---
-# **Design for the next billion seconds** 
+# **Remixing Materials** 
 
-(Jan 11 - Jan 13)
+## Week one reflection 
+January 18
 
-This first session of term II has allowed me to have a critical thinking about the present we live and the futures we will live. Hypothesizing about what is going to happen in the next one billion seconds. 
+In this first session of the Remixing Materials course, Lara Campos has introduced us to the basic concepts of biomaterials.
 
-This course carried by Andres Calamaru has been a great chance to ask ourselves questions on how we would like to live 30 years from now. These reflections have been good to project my future and have helped me to have a more critical view of my time, how I spend it and how I would like to spend it.
+Lara began the session by introducing us to the projects she had been working on over the past few years. It was very inspiring to see all those solutions he proposes through biomaterials. Personally, I was very interested in the project "Be grounded". A project that proposes to improve the relationship between humans and nature through materials, using an emotional and artistic language. Also, I liked all those projects that use food waste, especially the "En(des)uso" project, which proposes various solutions to what we have always considered useless and invalid.  I have to say that I was already aware of some of the projects presented, thanks to the intervention I made in Term 1 on food waste. 
 
-From the lesson one I extracted this three reflections:
+Then, Lara briefly presented the history of materials and how they have influenced each era of the evolution of human beings, allowing us to improve our quality of life.  Also, we contextualize the current problem of using materials as unlimited resources and the impact this is generating on the biosphere. 
 
-- **We can not save the world but we can take care of it.** Currently, there is great pressure on young people due to the concern that exists for the environmental emergency. It is believed that young people have a responsibility to save this world, but I do not believe that it is about saving, it is about caring for and respecting our planet and all the living beings that take part in it. It's about making good decisions that help create a more ethical and responsible world. This reflection reminds me of something my mother always tells me: "no hay que preocuparse, hay que ocuparse" (no need to worry, you have to deal with it).
-- **From individualism to collaborative way of living.** It is about seeing the system not vertically but horizontally, more egalitarian and supportive. I firmly believe that we are an interdependent society and that we need each other to live. A more collaborative world is for me a world that respects what is different, that favors more democratic decision-making. 
-- **Designing for more solidary futures.** 
+On the other hand, he also emphasized that materials are more than their functionality and properties, they can also serve as tools to convey emotions, feelings and sensations. Proposing to the designers to select the materials to generate an interactive and sensory experience in the users. This area of exploration is of great interest to me. In my opinion, I think that there is currently a lack of value and affection for the materials that surround us, and therefore for the artifacts we use in our day. I firmly believe that materials can improve that relationship between people and objects. I also believe that the implementation of materials adding emotional values can help improve the life cycle of products, and consequently, the impact they have on the environment.
 
-It was interesting to think about different realities, imagining hopeful futures that will manage to face the current problems, writing a letter from myself in 2050 and others. I really liked to start like this the trimestre, with a critical hope thinking. 
 
-Some photos from thrid lesson:
-
-![](../images/DFTNBS/IMG-0397.JPG)
 
