@@ -15,8 +15,8 @@ Then, Lara briefly presented the history of materials and how they have influenc
 
 On the other hand, he also emphasized that materials are more than their functionality and properties, they can also serve as tools to convey emotions, feelings and sensations. Proposing to the designers to select the materials to generate an interactive and sensory experience in the users. This area of exploration is of great interest to me. In my opinion, I think that there is currently a lack of value and affection for the materials that surround us, and therefore for the artifacts we use in our day. I firmly believe that materials can improve that relationship between people and objects. I also believe that the implementation of materials adding emotional values can help improve the life cycle of products, and consequently, the impact they have on the environment.
 
-<img src="https://junebascaran.github.io/MDEF/images/Remixing%20materials/technical_page-0002.jpg" width=30% height=30%> 
-
 Finally, we had the opportunity to experiment with biomaterials using food waste as addictive. In the case of our group, we use avocado skin to create bioplastic fibers. 
+
+![](../images/DFTNBS/IMG-0397.JPG)
 
 
