@@ -17,6 +17,6 @@ On the other hand, he also emphasized that materials are more than their functio
 
 Finally, we had the opportunity to experiment with biomaterials using food waste as addictive. In the case of our group, we use avocado skin to create bioplastic fibers. 
 
-![](../images/DFTNBS/IMG-0397.JPG)
+![](../images/Remixing materials/FOTOS Biomateriales.jpg)
 
 
