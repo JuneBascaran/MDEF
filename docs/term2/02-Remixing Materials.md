@@ -5,7 +5,7 @@ hide:
 # **Remixing Materials** 
 
 ## Week one reflection 
-January 18
+**January 18**
 
 In this first session of the Remixing Materials course, Lara Campos has introduced us to the basic concepts of biomaterials.
 
