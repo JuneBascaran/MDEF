@@ -39,3 +39,7 @@ In relation to the development of my future projects I am interested in using th
 As an exercise, during the presentation, we had to represent a croassant in a parametrical way. We could draw it by hand, digitally or directly on Miro. I drew it by hand quickly without thinking too much. 
 
 ![](../images/Documentos escaneados (14)1.jpg)
+
+**Testing with Blender**
+
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/796092321?h=a8a0bedb2f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Task 2.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
