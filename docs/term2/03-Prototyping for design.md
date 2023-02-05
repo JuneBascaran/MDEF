@@ -13,7 +13,12 @@ In this first class Victor has introduced us to the basic concepts of electronic
 
 To creating music with Arduino and buzzers we used a ESP32 microcontroller, a piezo buzzer that is an electronic component that can make sounds, a bread board and connection wires and pins which are then connected through Arduino IDE and code to make sounds. 
 
-
 Even though this topic is difficult for me to work with, there are a lot of online tutorias to make it easy. For this exercise I follow the instructions of one of the examples I have found on the Internet, which explains step by step everything you should do.
 
- 
+![](../fabacademy/ARDUINO TASK 1.png)
+
+ <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/795218037?h=b5cd0ec3da&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="TASK1"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+
+ ##    
+**02/02/2023** 
