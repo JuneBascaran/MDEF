@@ -2,7 +2,7 @@
 hide:
     - toc
 ---
-# **Remixing Materials** 
+# **Prototyping for design** 
 
 ## Week 1 reflection 
 **January 18**
