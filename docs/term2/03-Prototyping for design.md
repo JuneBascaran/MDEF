@@ -36,5 +36,6 @@ In relation to the development of my future projects I am interested in using th
 
 - FlatFab: flatfab is software that helps you design and fabricate 3D objects. 3D printing in new-age materials is great for small complex objects, but prohibitive in time and money for anything bigger than your fist.
 
-As an exercise we were to during the presentation represent what we thought could be the parametric variables of a croissant. We could draw it by hand, digitally or directly on MIRO. I drew it quickly without thinking too much, where it is built up of geometric shapes.
+As an exercise we were to during the presentation represent what we thought could be the parametric variables of a croissant. We could draw it by hand, digitally or directly on MIRO. I drew it quickly without thinking too much. 
 
+![](../images/Documentos escaneados (14)1.jpg)
