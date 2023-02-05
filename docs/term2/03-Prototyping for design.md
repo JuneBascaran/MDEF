@@ -35,3 +35,6 @@ In relation to the development of my future projects I am interested in using th
 - Blender: is a cross-platform computer program, dedicated especially to modeling, lighting, rendering, animation and creation of three-dimensional graphics. Also digital composition using the node procedural technique, video editing, sculpture (includes dynamic topology) and digital painting.
 
 - FlatFab: flatfab is software that helps you design and fabricate 3D objects. 3D printing in new-age materials is great for small complex objects, but prohibitive in time and money for anything bigger than your fist.
+
+As an exercise we were to during the presentation represent what we thought could be the parametric variables of a croissant. We could draw it by hand, digitally or directly on MIRO. I drew it quickly without thinking too much, where it is built up of geometric shapes.
+
