@@ -19,7 +19,7 @@ Even though this topic is difficult for me to work with, there are a lot of onli
 
  <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/795218037?h=b5cd0ec3da&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="TASK1"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
- ### Digitalizing realities   
+ ## Digitalizing realities   
 **02/02/2023** 
 
 In this class we had a presentation about digital tools for 2D, 3D, parametric and generative deisgn. We started off by communally adding programs we have worked with in the past to a Miroboard. I have used 2D and 3D programs for modelling before such as Illustrator, Rhino, Solidworks, NX to create 3D and 2D models and files for digital manufacturing. Also, I saw so many interesting programs and other ways of working. 
