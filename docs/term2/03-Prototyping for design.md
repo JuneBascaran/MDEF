@@ -4,8 +4,8 @@ hide:
 ---
 # **Prototyping for design** 
 
-## Week 1 reflection 
-**January 18**
+## Electronics & coding  
+**01/02/2023**
 
 In this first session of the Remixing Materials course, Lara Campos has introduced us to the basic concepts of biomaterials.
 
