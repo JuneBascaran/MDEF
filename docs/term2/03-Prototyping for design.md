@@ -48,5 +48,4 @@ For the exercise of this class we must use one of these tools presented to put i
 I have used an internet tutor to guide me step by step and I have realized that all the tools I have used in my past, such as Cinema 4D, are very similar but different at the same time. Each uses a different language and learning a new language is usually not easy at first. 
 
 I really liked the program but I still have to put it into practice more to get better results. 
-
 <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/796092321?h=a8a0bedb2f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Task 2.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
