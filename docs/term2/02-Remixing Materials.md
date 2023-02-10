@@ -23,6 +23,13 @@ Finally, we had the opportunity to experiment with biomaterials using food waste
 
 This class was taught at Elisava by Laura Freixas, a former MDEF student. Laura showed us several projects that propose solutions for the recirculation of materials. He also presented us with the project that we should do in these two weeks.   Later, we visited Elisava's material library where we had the opportunity to touch, feel and analyze some of the samples of the materials and also showed us interesting books about the materials. Specifically, I found one that might interest me for my project: "Material experience: fundamental of materials and design". 
 
+**January 25 & 26**
+
+This week Edu and Petra have presented us some prototyping techniques useful for the development of our projects, such as 3D printing, molding and casting. Personally, I have found very interesting the use of the 3d printer with materials such as ceramics or biomaterials.  In my past I had already used this technique for prototyping but never with those materials. I believe that the use of these innovative techniques are the future for product creation and development. I imagine a future where each person has these machines at home, such they have washing machines or microwaves, for the production of each product they need. The simple and intuitive use of these tools will allow anyone to make use of it.
+
+
+On the other hand, I also see it important to learn from ancient techniques such as modeling or casting. I believe that these techniques will remain with us forever, because of the properties and characteristics they bring to the final product. I liked to see that I can be able to put these techniques into practice, I have never had the opportunity to learn from them by doing.
+
 
 ## Materials Narrative 
 
