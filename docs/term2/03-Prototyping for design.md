@@ -57,6 +57,7 @@ I really liked the program but I still have to put it into practice more to get 
 **08/02/2023** 
 
 This week we have been introduced to the laser cutter. In my past I had already used it but this session has been good for me to refresh my knowledge.In the image shown below was my first object that I created with the laser cutter, allowing to put into practice the knowledge acquired in the class.
+
 ![](../images/Prototying ideas/PORTAMOVIL.jpg)
 
 **Benefits of Laser cutting for prototyping**
@@ -66,3 +67,8 @@ This tool offer a high level of precision, accuracy and speed, making it possibl
 One of the main benefits of using a laser cutter for prototyping is the ability to quickly produce accurate and high-quality prototypes. With a laser cutter, it is possible to create intricate designs and shapes with precise dimensions and clean edges, which can greatly improve the overall quality of the final product.
 
 Another advantage of using a laser cutter for prototyping is the ability to work with a wide range of materials. From wood and acrylic to metals and textiles, laser cutters can work with a wide range of materials, making it possible to produce prototypes that closely resemble the final product.
+
+**Task 3: Using the lasercut**
+To put theory into practice we were to use a method to Laser cut something. Currently, I am in a project where we are experimenting with biomaterials. I have taken this opportunity to create molds for the development of this project. 
+
+Next, I show step by step the process for the creation of these molds with the laser cutter.
