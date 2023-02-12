@@ -81,3 +81,6 @@ Next, I show step by step the process for the creation of these molds with the l
   </iframe>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFaYdgU22Y&#x2F;view?utm_content=DAFaYdgU22Y&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">LaserCut steps</a> de June Bascaran Bilbao
+
+## Inputs & outputs   
+**09/02/2023** 
