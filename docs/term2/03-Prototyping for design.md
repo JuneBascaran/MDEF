@@ -59,7 +59,9 @@ I really liked the program but I still have to put it into practice more to get 
 This week we have been introduced to the laser cutter. In my past I had already used it but this session has been good for me to refresh my knowledge.In the image shown below was my first object that I created with the laser cutter, allowing to put into practice the knowledge acquired in the class.
 ![](../images/Prototying ideas/PORTAMOVIL.jpg)
 
-Laser cutters are rapidly becoming an indispensable tool in the field of prototyping and product development. They offer a high level of precision, accuracy and speed, making it possible to quickly create complex shapes and designs with ease. The use of laser cutters for future prototyping offers a range of benefits that can help to streamline the development process and bring new products to market faster.
+**Benefits of Laser cutting for prototyping**
+
+This tool offer a high level of precision, accuracy and speed, making it possible to quickly create complex shapes and designs with ease. 
 
 One of the main benefits of using a laser cutter for prototyping is the ability to quickly produce accurate and high-quality prototypes. With a laser cutter, it is possible to create intricate designs and shapes with precise dimensions and clean edges, which can greatly improve the overall quality of the final product.
 
