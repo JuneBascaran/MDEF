@@ -90,6 +90,8 @@ The second part of the week we learned about inputs and outputs, looking at diff
 Sensors play a critical role in a wide range of applications and are essential for many modern technologies. For example, automation, robotics, healthcare, environmental monitoring or smart homes. They are used to gather data about the physical world and convert that information into electrical signals that can be processed and analyzed by computer systems. 
 
 **Task 4: Testing sensors with Arduino**
-As an excercise we tryed to use a sensor and and actuator to comunicate, using a simple Light Dependant Resistor (LDR) and a LED. To perform this exercise more easily, we did it in parts. First, we tried turning on the LED with a button. To do this, we use a code provided by Arduino IDE, in which, you only have to change the number of the Pin. 
+As an excercise we tryed to use a sensor and actuator to comunicate, using a simple Light Dependant Resistor (LDR) and a LED. To perform this exercise more easily, we did it in parts. First, we tried turning on the LED with a button. To do this, we use a code provided by Arduino IDE, in which, you only have to change the number of the Pin. 
 
 ![](../images/Prototying ideas/BOTTON.jpg)
+
+After this part worked, we tested with another board the PhotoCell, a sensor that detects light.
