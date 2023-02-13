@@ -91,3 +91,5 @@ Sensors play a critical role in a wide range of applications and are essential f
 
 **Task 4: Testing sensors with Arduino**
 As an excercise we tryed to use a sensor and and actuator to comunicate, using a simple Light Dependant Resistor (LDR) and a LED. To perform this exercise more easily, we did it in parts. First, we tried turning on the LED with a button. To do this, we use a code provided by Arduino IDE, in which, you only have to change the number of the Pin. 
+
+![](../images/Prototying ideas/BOTTON.jpg)
