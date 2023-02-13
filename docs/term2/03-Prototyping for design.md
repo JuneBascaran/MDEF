@@ -94,4 +94,6 @@ As an excercise we tryed to use a sensor and actuator to comunicate, using a sim
 
 ![](../images/Prototying ideas/BOTTON.jpg)
 
-After this part worked, we tested with another board the PhotoCell, a sensor that detects light.
+After this part worked, we tested the LDR with another board. Light Dependent Resistor (LDR) acts as a light sensor that can detect changes in light intensity and adjust the circuit accordingly.
+
+![](../images/Prototying ideas/ldr.jpg)
