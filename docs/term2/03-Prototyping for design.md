@@ -115,3 +115,4 @@ We started the project by brainstorming ideas and drawing sketches. At first, we
 
 We modeled the mold using Illustrator and Rhino software so that we could cut it using a laser cutter.
 
+![](..images/Prototying ideas/imagen 2.jpeg)
