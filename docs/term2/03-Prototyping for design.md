@@ -98,10 +98,8 @@ After this part worked, we tested the LDR with another board. Light Dependent Re
 
 ![](../images/Prototying ideas/ldr.jpg)
 
-# **MICROCHALLENGE I**
+## **MICROCHALLENGE I**
 **14/02/2023 - 17/02/2023**
-
-You can find more information about the proyect by tapping here:
 
 For this first challenge, I teamed up with Paige and Sami since we are in the same proyect and all three of us are interested in experimenting with biomaterials. The goals for this Challenge were to apply the things learnt during the past weeks in Prototyping for design: electronics and couding, 2D and 3D modelling, laser-cut and vinyl cut. 
 
@@ -123,3 +121,4 @@ We created a variety of prototypes to bring our ideas to reality. This helped us
 
 In conclusion, this mold could be improved in the future to create other products with different shapes, and it could be a tool that is available to anyone interested in experimenting with biomaterials and creating their products in a simple and straightforward way. For the next challenge, I would like to approach the project differently, perhaps not so technically focused, and more geared towards creating a tool or prototype that facilitates interaction between the user and the product.
 
+You can find more information about the proyect by tapping here: https://hackmd.io/6WUepphCRT2BhSNGhIL4Ww
