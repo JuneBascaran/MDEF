@@ -97,3 +97,10 @@ As an excercise we tryed to use a sensor and actuator to comunicate, using a sim
 After this part worked, we tested the LDR with another board. Light Dependent Resistor (LDR) acts as a light sensor that can detect changes in light intensity and adjust the circuit accordingly.
 
 ![](../images/Prototying ideas/ldr.jpg)
+
+# **MICROCHALLENGE I**
+**14/02/2023 - 17/02/2023**
+
+You can find more information about the proyect by tapping here:
+
+For this first challenge, I teamed up with Paige and Sami since we are in the same proyect and all three of us are interested in experimenting with biomaterials. The goals for this Challenge were to apply the things learnt during the past weeks in Prototyping for design: electronics and couding, 2D and 3D modelling, laser-cut and vinyl cut. 
