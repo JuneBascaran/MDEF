@@ -111,3 +111,7 @@ The most challenging part of this bio presser was making it interchangeable with
 
 ![](..images/Prototying ideas/imagen 1.jpeg)
 
+We started the project by brainstorming ideas and drawing sketches. At first, we thought that developing this project would be easy, but soon we realized that it was more complicated than we expected. It was important to consider many variables, such as ventilation holes, the mold material, and the shape of the plates.
+
+We modeled the mold using Illustrator and Rhino software so that we could cut it using a laser cutter.
+
