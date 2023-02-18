@@ -104,3 +104,9 @@ After this part worked, we tested the LDR with another board. Light Dependent Re
 You can find more information about the proyect by tapping here:
 
 For this first challenge, I teamed up with Paige and Sami since we are in the same proyect and all three of us are interested in experimenting with biomaterials. The goals for this Challenge were to apply the things learnt during the past weeks in Prototyping for design: electronics and couding, 2D and 3D modelling, laser-cut and vinyl cut. 
+
+![](..images/Prototying ideas/imagen 1.jpeg)
+
+After experimenting with many materials, we realized that we needed to develop molds for our future projects. We took this opportunity to develop a bio presser that would allow us to shape the final product. To do this, we defined the following variables: a low-tech bio presser for non-sticky biomaterials, interchangeable molds, and consistent pressure.
+
+The most challenging part of this bio presser was making it interchangeable with other molds so that we could shape the material in different ways. Our plan then was to create a flatter mold that could produce three simple, blob-like modular plate
