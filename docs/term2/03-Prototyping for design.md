@@ -117,7 +117,7 @@ We modeled the mold using Illustrator and Rhino software so that we could cut it
 
 We created a variety of prototypes to bring our ideas to reality. This helped us a lot in identifying future problems with the mold. The idea behind this project was to create a bio presser that could make it easier to develop our future projects. I would have liked to create a mold that would allow us to interchange different shapes. It would also have been interesting to include a moisture sensor or a timer device.
 
-![](../images/Prototying ideas/imagen 3.jpeg)
+
 
 In conclusion, this mold could be improved in the future to create other products with different shapes, and it could be a tool that is available to anyone interested in experimenting with biomaterials and creating their products in a simple and straightforward way. For the next challenge, I would like to approach the project differently, perhaps not so technically focused, and more geared towards creating a tool or prototype that facilitates interaction between the user and the product.
 
