@@ -130,8 +130,15 @@ This week's topic of FabAcademy was 3D printing and scanning. During the theoret
 
 Then, we were told about how to slice a 3D modelled part to have the optimal result. Many parameters have a direct effect on the final printed part such as layer height, infill, directionality, shell, etc. It's necessary to set a proper configuration for each part, using a slicing program like Cura. For that, you need to have the part in a mesh format that can be STL, OBJ or 3MF generally. Preferably, STL. 
 
-After the 3d printing introduction, it was the turn for 3D scanning. FabLab team procceded to show us some ways to scann using diverse programs and methods. 
+After the 3d printing introduction, it was the turn for 3D scanning. FabLab team procceded to show us some ways to scan using diverse programs and methods. 
 
 This session has been of great interest to me. I think that 3D printers has revolutionized the way we see product design.  One of the most exciting developments in 3D printing is the increasing availability of high-quality. As these printers become more widely available, designers will have even greater flexibility in their designs and will be able to produce complex shapes and structures with ease. Also, the wide range of materials that can be use in this technologies is a very important factor for the work of designers. 
+
+**Task 5: 3D printing & scanning**
+
+For the practical exercise of this session was to print using 3D printer and then scan it. To do this, I started by creating the model in Blender and then saved it in STL. I created a candle plate in which it will create a visual effect with the shadows while the candle is consumed. 
+
+<iframe width="472" height="240" src="https://www.youtube.com/embed/rqQReA3TPpU" title="STL . Video for 3D printing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 
