@@ -122,3 +122,9 @@ We created a variety of prototypes to bring our ideas to reality. This helped us
 In conclusion, this mold could be improved in the future to create other products with different shapes, and it could be a tool that is available to anyone interested in experimenting with biomaterials and creating their products in a simple and straightforward way. For the next challenge, I would like to approach the project differently, perhaps not so technically focused, and more geared towards creating a tool or prototype that facilitates interaction between the user and the product.
 
 You can find more information about the proyect by tapping here: https://hackmd.io/6WUepphCRT2BhSNGhIL4Ww
+
+## 3D fabrication & scanning    
+**22/02/2023** 
+
+This week's topic of FabAcademy was 3D printing and scanning. During the theoretical class, the FabLab team explained a bit the story of 3D printing, starting from the first SLA printers and the RepRap project until nowadays where there are 3D printers for literally everything. They also explained the functioning of the main 3D printing technologies and the materials that are normally used in each of them.
+
