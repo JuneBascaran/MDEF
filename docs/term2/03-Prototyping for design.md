@@ -136,9 +136,9 @@ This session has been of great interest to me. I think that 3D printers has revo
 
 **Task 5: 3D printing & scanning**
 
-For the practical exercise of this session was to print using 3D printer and then scan it. To do this, I started by creating the model in Blender and then saved it in STL. I created a candle plate in which it will create a visual effect with the shadows while the candle is consumed. 
+For the practical exercise of this session we need to print using 3D printer and then scan it. To do this, I started by creating the model in Blender and then saved it in STL. I created a candle plate in which it will create a visual effect with the shadows while the candle is consumed. 
 
-<iframe width="472" height="240" src="https://www.youtube.com/embed/rqQReA3TPpU" title="STL . Video for 3D printing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Then, transfer the file to the Cura program and change the parameters necessary for printing, such the infill,speed, supports and temperature. Once we have all these parameters correct, we preview the printing process and send it to the card. Then this card is placed on the machine. We look for our file and give it to PRINT. 
 
-
+![](../images/Prototying ideas/steps.jpg)
 
