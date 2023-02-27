@@ -6,6 +6,8 @@ hide:
 # **Radical Situadness**
 (27/02/2023) 
 
+![](../images/Design Space/IMG-0915.PNG)
+
 Currently, I am doing an intervention with a group that cleans beaches, called Clean Beach Initiative. During this first intervention, where I was collecting waste from the beach, I reflected on something that was happening in my subconscious, something that came from my past traumas or from the way this system has forced me to see things.
 
 What happened was that my mind, unconsciously, wanted to compete with my other colleagues, wanting to collect more waste from the beach than others. This made me reflect. At that moment, when I started comparing myself to others and trying to be the best at collecting, I forgot the main reason why I was there, why we were all there. I forgot that I was there out of love and respect for the sea.
