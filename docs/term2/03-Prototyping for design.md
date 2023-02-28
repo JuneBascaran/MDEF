@@ -153,3 +153,6 @@ The organic shapes of this object need many supports to be manufactured. This wi
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFb21u2K60&#x2F;view?utm_content=DAFb21u2K60&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Copia de LaserCut steps</a> de June Bascaran Bilbao
 
 PART 2 | 3D SCANNING: 
+
+## Interfaces - machine interactions   
+**23/02/2023** 
