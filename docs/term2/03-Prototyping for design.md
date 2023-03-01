@@ -155,4 +155,29 @@ The organic shapes of this object need many supports to be manufactured. This wi
 PART 2 | 3D SCANNING: 
 
 ## Interfaces - machine interactions   
-**23/02/2023** 
+**01/03/2023** 
+
+In this class we have been working with Arduino, trying to turn on a LED in different ways:
+
+- The hardcoded way (Exercise 1)
+- Asking for it (Exercise 2)
+- Making it do animations (Exercise 3)
+- Asking for it from the internet (Exercise 4 and 5)
+- Making sensors do it remotely (Exercise 6)
+
+
+
+**Exercise 1: The hardcoded way**
+For this exercise we use the code that Arduino provide, called Blink. The only thing that we have to change is the pin number. 
+
+**Exercise 2: Asking for it**
+For this one, we changue the code to be able to write "blink" in the monitor and the Led makes the funtion.
+
+**Exercise 3: Making do animations**
+We install the library Jled to have new funtions for the Led, such us, breathe, candle, fade on, fade off, etc. 
+
+**Exercise 4 and 5: Asking for it from the internet**
+In this case, we are going to ask to turn on the Led trough online network. To do this, we create a code that allows you to connect to a Wi-Fi network. In this way, we can control the parameters of the Led from the internet. (Exercise 5): After getting it we also add a new function for the Led, in my case, candle mode. 
+
+**Exercise 6: Making sensors do it remotely**
+
