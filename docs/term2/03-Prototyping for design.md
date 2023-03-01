@@ -165,7 +165,7 @@ In this class we have been working with Arduino, trying to turn on a LED in diff
 - Asking for it from the internet (Exercise 4 and 5)
 - Making sensors do it remotely (Exercise 6)
 
-
+![](../images/Prototying ideas/imagen 3.jpeg)
 
 **Exercise 1: The hardcoded way**
 For this exercise we use the code that Arduino provide, called Blink. The only thing that we have to change is the pin number. 
