@@ -154,6 +154,8 @@ The organic shapes of this object need many supports to be manufactured. This wi
 
 PART 2 | 3D SCANNING: 
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/LlaA-549iXo" title="3D Sacnning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Interfaces - machine interactions   
 **01/03/2023** 
 
