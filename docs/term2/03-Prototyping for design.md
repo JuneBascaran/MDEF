@@ -182,3 +182,5 @@ In this case, we are going to ask to turn on the Led trough online network. To d
 
 **Exercise 6: Making sensors do it remotely**
 
+## CNC    
+**02/03/2023** 
