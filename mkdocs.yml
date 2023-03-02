@@ -70,8 +70,8 @@ theme:
     accent: deep orange
   font:
     # See available fonts at https://fonts.google.com/
-    text: Marcellus
-    code: Marcellus
+    text: Lato
+    code: Lato
 
   features:
     # - navigation.tabs
