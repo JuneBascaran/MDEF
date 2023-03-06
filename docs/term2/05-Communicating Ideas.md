@@ -11,3 +11,7 @@ If I had to answer the question of why I am here and what impact I want to make,
 Regarding my purpose as an industrial designer, I would like to have a positive impact on the environment.
 
 I believe that these two purposes, in some way or another, could be related. Showing my work in an open and sincere way to raise awareness among people about the importance of our actions on the environment and showing that there are other ways to act.
+
+## VISION. A picture in words about the future. 
+
+## MISION. What I do and how. 
