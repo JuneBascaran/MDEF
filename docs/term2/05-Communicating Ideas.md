@@ -14,4 +14,10 @@ I believe that these two purposes, in some way or another, could be related. Sho
 
 ## VISION. A picture in words about the future. 
 
+I imagine a future where we stop consuming nature as a geological resource. A future where the concept of "waste" does not exist and creativity is used to re-evaluate what we currently consider as useless and not worthy. A future where expressing yourself in a vulnerable way is not synonymous with weakness but with strength.
+
 ## MISION. What I do and how. 
+
+- Waste materials recirculation.
+- Encourage participation.
+- Increase awareness through social media in a honest and sincere way.  
