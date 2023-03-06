@@ -20,4 +20,6 @@ I imagine a future where we stop consuming nature as a geological resource. A fu
 
 - Waste materials recirculation.
 - Encourage participation.
-- Increase awareness through social media in a honest and sincere way.  
+- Increase awareness through social media in a honest and sincere way. 
+
+## COLLAGE OF MY PERSONAL IDENTITY. 
