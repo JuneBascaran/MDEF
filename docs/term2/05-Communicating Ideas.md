@@ -4,6 +4,7 @@ hide:
 ---
 # **Communicating Ideas** 
 
+
  ![](../images/logo/Communicating ideas/Communicating ideas-02.jpg)
  ![](../images/logo/Communicating ideas/Communicating ideas-03.jpg)
  ![](../images/logo/Communicating ideas/Communicating ideas-04.jpg)

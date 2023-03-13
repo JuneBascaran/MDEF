@@ -4,6 +4,8 @@ hide:
 ---
 # **Making sense and meaning** 
 
+**12/03/2023**
+
 It might be hard to accept that humans have full responsibility for the current climate emergency and social imbalances, but we have designed all of it. Designing something is not just to define its aesthetics or proportions, neither is limited to objects. Design is about making decisions or provoking decisions of others. You either take your private car or public transport, both are decisions in which you are designing the way you are going to go from point A to point B. But beyond the trip from A to B, you are also designing how much are you going to pollute today, or if you do not have any other choice because you live in an American suburb, then your mode of transport has been decided already for you. Design is the attitude we have towards the simple things of everyday life, to the more transcendental ones that we believe transform our lives or other people’s lives forever. The meaning and purpose in design are personal perceptions that translate into actions, but it also needs to be a collective effort in order to synchronize interventions at multiple scales that will allow the human species to inhabit and coexist on this planet with other forms of life, which are needed to sustain human life itself.
 
 - Tomas Diez 
