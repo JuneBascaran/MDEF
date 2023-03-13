@@ -34,3 +34,8 @@ Design for sustainability involves an approach to activities that prioritizes th
 
 While contemporary designers strive to prioritize sustainability in their work, it's crucial to acknowledge that our predecessors were more likely to follow trends and established design schools of thought than to prioritize ecological concerns. Today, we benefit from years of research into materials and processes that have made sustainable practices more accessible. These practices have expanded beyond design into other areas of an organization, where consideration for the entire product lifecycle was previously absent
 
+## Conclusion
+
+The field of design presents a powerful opportunity to enact meaningful change in the world. By prioritizing sustainability and social welfare, designers can create solutions that not only benefit local communities but can also be scaled up to have a global impact. As design becomes more accessible thanks to the spread of information, locally developed innovations can contribute to the growing pool of knowledge that is shaping our collective future.
+
+Through reflection on our past mistakes, both as an industry and as a society, designers have shifted their values to prioritize a harmonious relationship with the natural world and future generations. This means creating solutions that align with our belief systems and empathize with the needs of diverse communities. By incorporating a wide range of perspectives, we can ensure that everyone is represented and that we can grow and thrive together without sacrificing the wellbeing of our planet.
