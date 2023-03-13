@@ -71,8 +71,8 @@ theme:
     accent: deep orange
   font:
     # See available fonts at https://fonts.google.com/
-    text: Lato
-    code: Lato
+    text: Montserrat
+    code: Montserrat
 
   features:
     # - navigation.tabs
