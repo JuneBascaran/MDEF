@@ -123,8 +123,11 @@ In conclusion, this mold could be improved in the future to create other product
 
 You can find more information about the proyect by tapping here: https://hackmd.io/6WUepphCRT2BhSNGhIL4Ww
 
-## 3D fabrication & scanning    
+## Networking    
 **22/02/2023** 
+
+## 3D fabrication & scanning    
+**23/02/2023** 
 
 This week's topic of FabAcademy was 3D printing and scanning. During the theoretical class, the FabLab team explained a bit the story of 3D printing, starting from the first SLA printers and the RepRap project until nowadays where there are 3D printers for literally everything. They also explained the functioning of the main 3D printing technologies and the materials that are normally used in each of them.
 
