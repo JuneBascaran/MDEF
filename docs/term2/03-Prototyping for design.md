@@ -125,6 +125,7 @@ You can find more information about the proyect by tapping here: https://hackmd.
 
 ## Networking    
 **22/02/2023** 
+
 During this class, we discussed the intricacies of the internet and its role as a revolutionary duplication tool. Functioning as an interlinked web of devices, networks facilitate the seamless exchange of information through various communication channels.
 
 **What is a network?**
