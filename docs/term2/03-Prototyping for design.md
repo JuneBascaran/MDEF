@@ -127,6 +127,9 @@ You can find more information about the proyect by tapping here: https://hackmd.
 **22/02/2023** 
 During this class, we discussed the intricacies of the internet and its role as a revolutionary duplication tool. Functioning as an interlinked web of devices, networks facilitate the seamless exchange of information through various communication channels.
 
+**What is a network?**
+A network is a collection of devices, such as computers, printers, and smartphones, that are connected to each other using some form of communication technology, like wires, cables, or wireless signals. These devices can communicate with each other and share information, resources, and services, which can be useful in a variety of contexts, from homes and offices to large corporations and the internet itself.
+
 ## 3D fabrication & scanning    
 **23/02/2023** 
 
