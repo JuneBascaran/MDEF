@@ -198,3 +198,6 @@ In this case, we are going to ask to turn on the Led trough online network. To d
 
 ## CNC    
 **02/03/2023** 
+
+## **MICROCHALLENGE II**
+**14/03/2023 - 17/03/2023**
