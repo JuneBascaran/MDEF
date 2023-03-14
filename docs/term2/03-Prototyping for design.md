@@ -131,6 +131,7 @@ During this class, we discussed the intricacies of the internet and its role as 
 A network is a collection of devices, such as computers, printers, and smartphones, that are connected to each other using some form of communication technology, like wires, cables, or wireless signals. These devices can communicate with each other and share information, resources, and services, which can be useful in a variety of contexts, from homes and offices to large corporations and the internet itself.
 
 **Task 5: Connecting Arduino to wifi server**
+![](../images/Prototying ideas/network task 5.png)
 
 
 ## 3D fabrication & scanning    
