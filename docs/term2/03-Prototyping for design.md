@@ -204,6 +204,7 @@ During our recent class, we delved into the benefits of utilizing CNC technology
 To put this class in practise we cut a wood handheld sieve, where the net size and texture can be changed.
 
 S T E P S 
+
 S T E P · 1
 We drew the 3D model in Rhino in different variations to test size and form. We tested these parametres parallel with cutting simple pieces in cardboard to assure that the size would be appropriate to hold with one hand, that the length and that the width of the handle is good for a holding. We chose to proceed with a more square shaped model that has more space to sieve.
 
