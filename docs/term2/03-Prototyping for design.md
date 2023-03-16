@@ -206,6 +206,10 @@ S T E P S
 S T E P · 1
 We drew the 3D model in Rhino in different variations to test size and form. We tested these parametres parallel with cutting simple pieces in cardboard to assure that the size would be appropriate to hold with one hand, that the length and that the width of the handle is good for a holding. We chose to proceed with a more square shaped model that has more space to sieve.
 
+![](../images/Prototying ideas/CNC/cvU9gAY.jpg)
+
+![](../images/Prototying ideas/CNC/cvU9gAY(1).jpg)
+
 S T E P · 2
 Thereafter the Rhino.3dm file is to be processed to CNC cut. Depending on the CNC macine used there are different ways to process the file. In this case we are using a …
 
@@ -220,13 +224,15 @@ First add points around the curves that will be cut for marking the material to 
 S T E P · 5
 Test run the cutting path in the program to make sure it runs smoothly. We could here see that we could have problems with the sides being quite thin, where by cutting against the wood grain, there might be big splinters. As this is a prototype for testing it is not an issue, but for a good finish this would have to be considered in the design.
 
-STEP · 5
+STEP · 6
 To set up the CNC, first place the material and set your ‘home’ by moving the x & Y axis to the very point of the material. Then set the Z axis by using the magnet assigned to the machine.
 
-S T E P · 6
+S T E P · 7
 Import the CNC files made and start with adding marks for the screws. When this is done, move the CNC away from the material and screw the material to the table in the marks that have been made.
 
 Therafter start your file for … and profiling. Stay with the machine until it is finished to make sure it cuts correctly and nothing goes wrong.
+
+![](../images/Prototying ideas/CNC/FvSbJ7Z.jpg)
 
 S T E P · 7
 When finished, move the CNC machine away from the material. Use a vacuum or airpressure to blow away the sawdust from the cuts made and check so it has cut through all the way. In this case it had and we removed the material from the table and cleaned the machine.
