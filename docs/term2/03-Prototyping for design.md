@@ -198,6 +198,7 @@ In this case, we are going to ask to turn on the Led trough online network. To d
 
 ## CNC    
 **02/03/2023** 
+
 During our recent class, we delved into the benefits of utilizing CNC technology, explored the intricacies of its workings, and even had a chance to witness a live demonstration of how Rhino CAM can be used to set up a file and simulate the process. CNC technology has been around for quite some time and has proven to be a reliable choice for subtractive processes. Its key advantage lies in the consistent and accurate results it can deliver, thanks to the ability to control the material through a variety of milling bits. Unlike laser cutting, CNC milling bits create fillets instead of sharp corners, which can be beneficial for press-fitting materials together. To address this difference, there are options such as Dog Bone or T-Bone cuts that provide enough overlap and a strong connection for press fitting materials together.
 
 To put this class in practise we cut a wood handheld sieve, where the net size and texture can be changed.
