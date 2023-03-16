@@ -234,6 +234,7 @@ Therafter start your file for … and profiling. Stay with the machine until it 
 
 ![](../images/Prototying ideas/CNC/FvSbJ7Z.jpg)
 
+
 S T E P · 7
 When finished, move the CNC machine away from the material. Use a vacuum or airpressure to blow away the sawdust from the cuts made and check so it has cut through all the way. In this case it had and we removed the material from the table and cleaned the machine.
 
@@ -243,6 +244,7 @@ The parts were a bit rough on the edges and needed some sanding to clean them of
 S T E P · 9
 To assemble, use the front lasercut part as a guide to cut the size of net that is preferred and cut around it. Place the cut out net into the bottom part and press it in place with the top. Right now the parts fit together and hold in place, if this form and tool works well when tested together with Clean Beach Initiative we will have to work on how tey will be attached with eachother.
 
+![](../images/Prototying ideas/CNC/tbwkvjV.jpg)
 
 ## **MICROCHALLENGE II**
 **14/03/2023 - 17/03/2023**
