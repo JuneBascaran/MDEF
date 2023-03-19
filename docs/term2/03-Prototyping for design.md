@@ -268,4 +268,10 @@ We want to create tools to collect and sort these smaller pieces. We would also 
 - Handheld microplastic siv
 - Sorting divider for collection bag
 
+![](../images/Prototying ideas/CNC/6KIWKvN.jpg)
+
+![](../images/Prototying ideas/CNC/IxheyY1.jpg)
+
+![](../images/Prototying ideas/CNC/v6iTUwE.jpg)
+
 Link to our hackmd to read about the full process: https://hackmd.io/@Kgea_wTSQ1i-eiGs2APlag/HJU8UUAJn
