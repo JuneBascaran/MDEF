@@ -249,3 +249,23 @@ To assemble, use the front lasercut part as a guide to cut the size of net that 
 
 ## **MICROCHALLENGE II**
 **14/03/2023 - 17/03/2023**
+
+Sami Piercy · Josephine Bourghardt · June Bascaran 
+
+For this Micro Challenge we have been working with creating tools for part of a Beach Cleaning Kit.
+
+**CONCEPT**
+
+For the past months we have been volunteering with the organisation Clean Beach Intiative. They organise weekly beach cleaning sessions every Staurday at Barceloneta. Through this experience we realised the amount of micro plastics, and the difficulty to collect them with the tools provided. We have therfor been experimenting and testing different nets and tools to collect these small pieces more efficiently.
+
+Everything that is collected during the session is later sorted and weighed to be recycled. All the very small pieces take too long to sort from all the bags and are therefor thrown in the normal trash.
+
+We want to create tools to collect and sort these smaller pieces. We would also like to be able to weigh them in the same way that the other waste is to communicate the amount of microplastics that are collected during this one hour session.
+
+**PURPOSE**
+
+- Portable & Stackable collecting and sorting trays
+- Handheld microplastic siv
+- Sorting divider for collection bag
+
+Link to our hackmd to read about the full process: https://hackmd.io/@Kgea_wTSQ1i-eiGs2APlag/HJU8UUAJn
