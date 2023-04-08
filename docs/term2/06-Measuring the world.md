@@ -2,7 +2,7 @@
 hide:
     - toc
 ---
-# **Measuring the worls**
+# **Measuring the world**
 
 **12/03/2023**
 
