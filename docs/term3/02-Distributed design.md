@@ -2,7 +2,17 @@
 hide:
     - toc
 ---
-# **Prototyping for design** 
+# **Distributed Design** 
 
-## ROBOTS    
-**19/04/2023** 
+## Reflection 1: Mushroom Model
+### Learning skills 
+### Dynamics 
+### Interactions 
+## Reflection 2: Reflection tree
+### Learning skills 
+### Dynamics 
+### Interactions 
+## Reflection 3: Values
+### Learning skills 
+### Dynamics 
+### Interactions 
