@@ -14,6 +14,7 @@ hide:
 For the reflection tree I have chosen one of my projects from last semester to reflect on what I can improve. The project is about collecting microplastics from the beach with the Beach Clean Initiative. My group and I volunteered to clean the beaches and tested and developed different tools to collect microplastics from the sand.
 
 ### Learning skills 
+With this exercise, I have used skills that have allowed me to self-evaluate on the different values of distributed design. Skills such as being able to view my project and interventions from a different perspective to see what I have done well and what I can improve. 
 ### Dynamics 
 ### Interactions 
 ## Reflection 3: Values
