@@ -11,4 +11,4 @@ In this first class of Prototyping for design in Term III, we started with the s
 
 ## BLENDER  
 **20/04/2023**
-In this class Victor has introduce us to Blender. The first part of the session has been a teorical part where 
+ 
