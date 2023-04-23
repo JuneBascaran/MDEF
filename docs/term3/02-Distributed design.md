@@ -16,6 +16,7 @@ For the reflection tree I have chosen one of my projects from last semester to r
 ### Learning skills 
 With this exercise, I have used skills that have allowed me to self-evaluate on the different values of distributed design. Skills such as being able to view my project and interventions from a different perspective to see what I have done well and what I can improve. 
 ### Dynamics 
+I was not able to do this reflection exercise collectively with my other group mates. Perhaps it would have been more dynamic if I had been able to share this evaluation jointly. I also believe that it would have been helpful to see different points of view and evaluate our project more effectively.
 ### Interactions 
 ## Reflection 3: Values
 ### Learning skills 
