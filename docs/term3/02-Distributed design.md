@@ -19,6 +19,8 @@ With this exercise, I have used skills that have allowed me to self-evaluate on 
 ### Dynamics 
 I was not able to do this reflection exercise collectively with my other group mates. Perhaps it would have been more dynamic if I had been able to share this evaluation jointly. I also believe that it would have been helpful to see different points of view and evaluate our project more effectively. Anyway, it has been interesting to evaluate the project in relation to the proposed values. Certain values that are not so present in the project can be identified, such as addressing social challenges. 
 ### Interactions 
+As I said, I have done this exercise individually and have not been able to interact with anyone. I would have liked to share it with someone to be able to reflect on it.
+
 ## Reflection 3: Values
 ### Learning skills 
 ### Dynamics 
