@@ -21,7 +21,20 @@ I was not able to do this reflection exercise collectively with my other group m
 ### Interactions 
 As I said, I have done this exercise individually and have not been able to interact with anyone. I would have liked to share it with someone to be able to reflect on it.
 
-## Reflection 3: Values
-### Learning skills 
-### Dynamics 
-### Interactions 
+## Personal Reflection 
+
+The distributed design approach has the potential to have a significant impact in the future, as it offers a more collaborative and inclusive way of addressing the complex and changing challenges facing the world today.
+
+One of the main benefits of distributed design is that it encourages the participation and inclusion of different actors and communities in the design process, which can lead to more relevant and sustainable solutions. By involving different perspectives and skills, more innovative and effective solutions for complex problems can be found.
+
+Additionally, the focus on regeneration and sustainability in distributed design can have long-term benefits for the environment and society as a whole. 
+
+Distributed design can also contribute to the creation of stronger and more connected communities, by fostering collaboration and active participation in the design process. This can lead to greater social cohesion and a stronger sense of community belonging.
+
+With the growing automation and digitalization of production, the question arises whether there will be designers in the future or whether anyone can produce whatever they want whenever they want. The role of the designer is evolving and transforming. Increasingly, designers are adopting a more collaborative and inclusive approach in their work, working closely with other professionals and communities to create more relevant and sustainable solutions. However, I think that in the future the role of design will continue to be an important role in creating innovative and effective solutions. 
+
+
+
+
+
+
