@@ -18,6 +18,11 @@ In this first class of Prototyping for design in Term III, we started with the s
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFhG_VmjA4&#x2F;view?utm_content=DAFhG_VmjA4&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Copia de LaserCut steps</a> de June Bascaran Bilbao
 
-## LIVE CODING AS A HUMAN INTERFACE  
+## LIVE CODING AS A HUMAN INTERFACE 
+
 **26/04/2023**
-In this first class of the week, we had a class about Interfaces. Xavi Domingúez stars with a brief presentation of his professional backaground history. He saw us the evolutions of his projects and works through the time and how and why he ended in Fab Lab. Also he showed us some useful and intuitive tools to start testing and learning ...
+In this first class of the week, we had a class about Interfaces. Xavi Domingúez stars with a brief presentation of his professional backaground history. He showed us the evolutions of his projects and works through the time and how and why he ended in Fab Lab. Also, he showed us some useful and intuitive tools for interfaces, such us Scrach, Phthon, IFTTT and more. After Xavi´s presentation Citali Hernandez present some of her cool projects, which she use electronics as art. Especially, I was very struck by one of his projects where she used robots to simulate the movements of the human body, mixing the art of dance with electronics and programming. 
+
+In the second part of the class, we test with Hydra, a video synthesizer and livecoding environment that works on top of the browser. 
+
+https://hydra.ojack.xyz/?sketch_id=afalfl_0
