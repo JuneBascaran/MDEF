@@ -8,8 +8,11 @@ hide:
 ![](../images/musshroom model .jpg)
 
 ### Learning skills 
+For this exercise I use communicaton, flexibility and active listening skills. Communication for explaining the exercise in a effective way. Flexibility for being open for new ideas and approaches, as well as being able to adapt to changing circumstances. 
 ### Dynamics 
+This exercise has been done with Myrto and Josephine and the dynamics have been better than previous ones. This type of exercise they come out better if they are done in groups and different perspectives are shared.
 ### Interactions 
+
 ## Reflection 2: Reflection tree
 ![](../images/Reflection Tree_ MDEF 2022-2023.jpg)
 ![](../images/Reflection Tree_ .jpg)
