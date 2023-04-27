@@ -5,6 +5,8 @@ hide:
 # **Distributed Design** 
 
 ## Reflection 1: Mushroom Model
+![](../images/musshroom model .jpg)
+
 ### Learning skills 
 ### Dynamics 
 ### Interactions 
