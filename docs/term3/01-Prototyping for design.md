@@ -25,4 +25,4 @@ In this first class of the week, we had a class about Interfaces. Xavi Domingúe
 
 In the second part of the class, we test with Hydra, a video synthesizer and livecoding environment that works on top of the browser. 
 
-https://hydra.ojack.xyz/?sketch_id=afalfl_0
+<iframe width="733" height="385" src="https://www.youtube.com/embed/G_0Caog1EfY" title="Hybra video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
