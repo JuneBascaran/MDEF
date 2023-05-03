@@ -21,7 +21,7 @@ In this first class of Prototyping for design in Term III, we started with the s
 ## BLENDER 
 **20/04/2023**
 
-In this class we learned the history of Blender, who was developed and we discuseed about why Bender is a good program for designers. We also learned about the important aspects to consider when choosing a modeling tool. It is essential to select a tool that allows for easy learning while also providing the freedom to accomplish desired outcomes. Acquiring proficiency with tools such as Blender provides the user with the autonomy to design with greater flexibility. Modifying the tool itsself should be a normal part of the creative process to allow a wider range of outputs. 
+In this class we learned the history of Blender, who was developed and we discuseed about why Bender is a good program for designers. We also learned about the important aspects to consider when choosing a modeling tool. It is essential to select a tool that allows for easy learning while also providing the freedom to accomplish desired outcomes. Acquiring proficiency with tools such as Blender provides the user with the autonomy to design with greater flexibility. Modifying the tool itsself should be a normal part of the creative process to allow a wider range of outputs. Blender is a versatile tool that can be used for a wide range of purposes, from creating visual effects for movies to designing products for 3D printing to developing virtual reality experiences.
 
 ## LIVE CODING AS A HUMAN INTERFACE 
 **26/04/2023**
