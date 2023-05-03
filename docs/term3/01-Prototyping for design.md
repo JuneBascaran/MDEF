@@ -18,9 +18,14 @@ In this first class of Prototyping for design in Term III, we started with the s
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFhG_VmjA4&#x2F;view?utm_content=DAFhG_VmjA4&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Copia de LaserCut steps</a> de June Bascaran Bilbao
 
-## LIVE CODING AS A HUMAN INTERFACE 
+## BLENDER 
+**20/04/2023**
 
+In this class we learned the history of Blender, who was developed and we discuseed about why Bender is a good program for designers. We also learned about the important aspects to consider when choosing a modeling tool. It is essential to select a tool that allows for easy learning while also providing the freedom to accomplish desired outcomes. Acquiring proficiency with tools such as Blender provides the user with the autonomy to design with greater flexibility. Modifying the tool itsself should be a normal part of the creative process to allow a wider range of outputs. 
+
+## LIVE CODING AS A HUMAN INTERFACE 
 **26/04/2023**
+
 In this first class of the week, we had a class about Interfaces. Xavi Domingúez stars with a brief presentation of his professional backaground history. He showed us the evolutions of his projects and works through the time and how and why he ended in Fab Lab. Also, he showed us some useful and intuitive tools for interfaces, such us Scrach, Phthon, IFTTT and more. After Xavi´s presentation Citali Hernandez present some of her cool projects, which she use electronics as art. Especially, I was very struck by one of his projects where she used robots to simulate the movements of the human body, mixing the art of dance with electronics and programming. 
 
 In the second part of the class, we test with Hydra, a video synthesizer and livecoding environment that works on top of the browser. 
