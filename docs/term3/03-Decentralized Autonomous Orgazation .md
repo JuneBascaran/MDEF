@@ -2,5 +2,7 @@
 hide:
     - toc
 ---
-# **Distributed De** 
+# **Decentralized Autonomous Organization** 
+
+
 
