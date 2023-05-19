@@ -39,15 +39,20 @@ Sami Piercy · Josephine Bourghardt · June Bascaran
 For this last microchallenge we have been exploring and learning how to use AR tools to make a 2D poster interactive for the Future Cravings event. 
 
 **CONCEPT**
+
 Future Cravings is a methodology for climate action, using multi-sensory formats to ideate differently around climate issues. It is based on the original problem solving forum: the dinner table (or the fire pit depending on how far back you go) where the dinner experience combines visuals, sounds, storytelling and alternative materials prompting critical conversation.
 
 The installation will be an interactive experience to illustrate visuals, sounds and artefacts within act of conversation and storytelling in a sensory experience to communicate the concept. To further visualise and communicate past and future dinner experiences posters will accompany the installation. To add an extra layer of communication we will create a series of interactive posters, using AR and 3D visuals to show the experience virtually. In doing so we can make our 2D posters engaging and playful.
 
 **PROPOSAL**
+
 2D posters that become interactive with the use of AR.
 
 **LEARNING EXPERIENCE**
+
 Learning to use software that allows you to create augmented reality visualizations is not as easy as we initially expected. It has taken us a lot of time to figure out which tools to use and how to use them. Learning to use a new program from scratch always takes time, and sometimes it can be a bit frustrating to grasp a new language. However, the abundance of tutorials and the intuitive design of the programs used have facilitated the process.
 
 In my personal experience, I have greatly enjoyed learning a new program. Meta Spark Studio has allowed me to learn how to create filters for Instagram. It's something I have always been curious about, and finally, I understand the process behind it. It has also allowed me to easily create augmented reality visualizations, and I believe it is a very interesting tool for graphic visualization creation. I would like to learn more about creating interactive visualizations through virtual reality (VR) and augmented reality (AR).
+
+Link to documentation: https://hackmd.io/YaHAG11vR2y91Vtm5JT__w?view
 
