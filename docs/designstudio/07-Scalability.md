@@ -3,10 +3,13 @@ hide:
     - toc
 ---
 
-# **Way of drifting** 
+# **Scalability** 
 
-![](../images/Design Studio/IMG-1900.jpg)
-![](../images/Design Studio/June Term III (2).jpg)
+ 23/05/2023
+
+ ## Socio-technical system visualization
+
+ 
 
 
 
