@@ -7,7 +7,7 @@ hide:
 
  23/05/2023
 
- ## Socio-technical system visualization
+ ## Stakeholders map
 
  
 
