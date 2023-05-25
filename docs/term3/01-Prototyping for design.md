@@ -57,3 +57,5 @@ In my personal experience, I have greatly enjoyed learning a new program. Meta S
 Link to documentation: https://hackmd.io/YaHAG11vR2y91Vtm5JT__w?view
 
 **Why AR for this?**
+
+Utilizing AR to craft communicative and promotional visualizations for events proves to be an exceptional approach in captivating participants' attention and immersing them in an innovative and indelible experience. Nonetheless, at Future Cravings, one of our primary objectives is to foster interpersonal dialogue without direct reliance on technology. We aspire to facilitate participant interaction that transcends the utilization of personal devices. However, AR distinguishes itself from conventional technologies by actively engaging users and encouraging collaboration among multiple participants.
