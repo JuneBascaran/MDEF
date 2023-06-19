@@ -32,6 +32,8 @@ In the second part of the class, we test with Hydra, a video synthesizer and liv
 
 <iframe width="733" height="385" src="https://www.youtube.com/embed/G_0Caog1EfY" title="Hybra video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## BLENDER INTERFACE 
+
 ## MICROCHALLENGE III 
 
 Sami Piercy · Josephine Bourghardt · June Bascaran 
