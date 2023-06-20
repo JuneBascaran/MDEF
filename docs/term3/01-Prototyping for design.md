@@ -34,6 +34,13 @@ In the second part of the class, we test with Hydra, a video synthesizer and liv
 
 ## BLENDER INTERFACE 
 
+In this class, we learned about how the concept behind blender and python and see how we can control it. Personaly, I find it very interesting because this allows me to have a deeper level of understanding of what is behind this program. 
+
+The task in this class involved configuring an LED strip that could be controlled using a virtual on/off strip created in Blender. To accomplish this, we needed to input specific code into the Arduino IDE, upload it to the ESP32, and additionally establish python code within the Blender scripting interface alongside a 3D model of a switch.
+
+I would love to continue learning more about this tool. I believe that programs like this, which provide control over the interface, are essential for anyone interested in designing something.
+
+
 ## MICROCHALLENGE III 
 
 Sami Piercy · Josephine Bourghardt · June Bascaran 
